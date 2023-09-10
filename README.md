@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrudul Mohan</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw3nK3IfwCI35Nvkxrol4tWo&ust=1694442843090000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiotM-hoIEDFQAAAAAdAAAAABAp">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrudulmohan007&label=Profile%20views&color=0e75b6&style=flat" alt="mrudulmohan007" /> </p>
 
