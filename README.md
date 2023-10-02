@@ -4,6 +4,7 @@
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrudulmohan007&label=Profile%20views&color=0e75b6&style=flat" alt="mrudulmohan007" /> </p>
+[![An image of @mrudulmohan007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrudulmohan007)](https://holopin.io/@mrudulmohan007)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrudulmohan007" alt="mrudulmohan007" /></a> </p>
 
