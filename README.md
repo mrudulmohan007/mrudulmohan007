@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrudul Mohan</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrudulmohan11" target="blank"><img src="https://img.shields.io/twitter/follow/mrudulmohan11?logo=twitter&style=for-the-badge" alt="mrudulmohan11" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DevOps*
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrudulmohan007](https://github.com/mrudulmohan007)
 
