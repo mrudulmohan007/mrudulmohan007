@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrudulmohan007](https://github.com/mrudulmohan007)
 
-- 💬 Ask me about **Flutter,Dart,Firebase,Hive**
+- 💬 Ask me about **DevOps,python,Flutter**
 
 - 📫 How to reach me **mrudulmohan2001@gmail.com**
 
