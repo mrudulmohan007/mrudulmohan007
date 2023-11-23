@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrudulmohan11" target="blank"><img src="https://img.shields.io/twitter/follow/mrudulmohan11?logo=twitter&style=for-the-badge" alt="mrudulmohan11" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps*
+- 🌱 I’m currently learning *DevOps*
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrudulmohan007](https://github.com/mrudulmohan007)
 
