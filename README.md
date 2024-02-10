@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrudulmohan007](https://github.com/mrudulmohan007)
 
-- 💬 Ask me about **DevOps,linux,Go,python,AWS,Flutter**
+- 💬 Ask me about **DevOps,Docker, Kubernetes,linux,Go,python,AWS,Flutter**
 
 - 📫 How to reach me **mrudulmohan2001@gmail.com**
 
